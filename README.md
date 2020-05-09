@@ -6,3 +6,5 @@
 Pitch List.maxpat tracked every pitch played within the melody and output those results into a list.
 
 music_analysis.py contained five different functions for each principle, which all received these matrixes as input and manipulated them accordingly to provide counts. 
+
+The base code for all Max/MSP patches was very courteously and helpfully provided by course instructor Jeremy Wagner of UC Berkeley.
